@@ -1,4 +1,4 @@
-# CrazyVideoGamez
+# CrazyVideoGamer
 ### Hi there 👋
 
 Hello, I'm a pro noob gamer, and a programmer. I work with javascript and python.
