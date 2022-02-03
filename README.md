@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ![CrazyVideoGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyVideoGamer&show_icons=true&theme=calm&count_private=true&hide_title=true)
-<span style="margin-left: 10px"></span>
+<span style="margin-left: 10px">t</span>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyVideoGamer&layout=compact)
 
 
