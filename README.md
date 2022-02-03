@@ -1,7 +1,9 @@
 # CrazyVideoGamer
 ### Hi there 👋
 
-![CrazyVideoGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyVideoGamer&show_icons=true&theme=calm)
+![CrazyVideoGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyVideoGamer&show_icons=true&theme=calm&count_private=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyVideoGamer&layout=compact)
+
 
 Hello, I'm a pro noob gamer, and a programmer. I work with javascript and python.
 
