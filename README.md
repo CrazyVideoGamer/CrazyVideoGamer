@@ -1,7 +1,7 @@
 # CrazyVideoGamer
 ### Hi there 👋
 
-![CrazyVideoGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyVideoGamer&show_icons=true&theme=calm&count_private=true&hide_title=true)
+![CrazyVideoGamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyVideoGamer&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=Stats&include_all_commits=true)
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyVideoGamer&layout=compact)
 
